@@ -55,7 +55,6 @@ input[type=text] {
     font-size: 13px;
     font-weight: bold;
     padding: 0 0 0 5px;
-    outline: none;
     width: 63%;
 }
 
@@ -66,7 +65,6 @@ input[type=text] {
     padding: 9px 9px;
     padding-left: 10px;
     position: relative;
-    outline: none;
     width: 93%;
 }
 
