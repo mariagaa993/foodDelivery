@@ -66,6 +66,7 @@ input[type=text] {
     padding: 9px 9px;
     padding-left: 10px;
     position: relative;
+    outline: none;
     width: 93%;
 }
 
